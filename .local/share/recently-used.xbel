@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/Ahmad/Bild_Av_Sinusv%C3%A5g_20241009-182106.png" added="2024-10-09T16:22:29.237400Z" modified="2024-10-10T09:13:05.758208Z" visited="2024-10-09T16:22:29.237402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T09:13:05.758203Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T06:53:57.118857Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/Bild_Av_Sinusv%C3%A5g_20241010-104133.png" added="2024-10-10T08:41:47.358421Z" modified="2024-10-10T08:41:47.358437Z" visited="2024-10-10T08:41:47.358423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T08:41:47.358430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/Bild_Av_Sinusv%C3%A5g_20241010-111300.png" added="2024-10-10T09:13:39.217125Z" modified="2024-10-10T09:13:39.217135Z" visited="2024-10-10T09:13:39.217127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T09:13:39.217131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/Bild_Av_Sinusv%C3%A5g_20241010-115721.png" added="2024-10-10T09:57:55.377809Z" modified="2024-10-10T09:57:55.377822Z" visited="2024-10-10T09:57:55.377811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T09:57:55.377816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/myproject/Bild_Av_Sinusv%C3%A5g_20241010-144919.png" added="2024-10-10T12:49:47.815633Z" modified="2024-10-10T12:49:47.815651Z" visited="2024-10-10T12:49:47.815636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T12:49:47.815644Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/myproject/Bild_Av_Sinusv%C3%A5g_20241010-145743.png" added="2024-10-10T12:59:16.026708Z" modified="2024-10-10T12:59:16.026726Z" visited="2024-10-10T12:59:16.026711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T12:59:16.026719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Ahmad/myproject/Bild_Av_Sinusv%C3%A5g_20241010-154619.png" added="2024-10-10T13:53:33.189619Z" modified="2024-10-10T13:53:33.189632Z" visited="2024-10-10T13:53:33.189621Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of MATE Image Viewer" exec="&apos;eom %u&apos;" modified="2024-10-10T13:53:33.189627Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

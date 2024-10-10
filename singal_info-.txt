@@ -1,0 +1,6 @@
+hej för att köra programmet startar du först Opwm.py, sen går du in i
+myproject via "cd myproject" sen skriver du "source venv/bin/activate" efter
+detta lämnar du mappen du är i via "cd" och sen kan du använda sätta igång
+singal analysen via "python3 singal_analys.py
+
+//Oscar"

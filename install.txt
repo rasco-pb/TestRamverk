@@ -1,0 +1,18 @@
+Installera Jenkins med APT
+Jenkins installeras lättast med hjälp av APT install. Men för att detta ska funka så måste Jenkins repository göras känt för din RPI.
+
+curl https://pkg.jenkins.io/debian/jenkins.io-2023.key | gpg --dearmor | sudo tee /usr/share/keyrings/jenkins-archive-keyring.gpg >/dev/null
+
+Därefter måste vi skapa en fil jenkins.list i /etc/apt/sources.list.d. Gör detta med:
+sudo nano /etc/apt/sources.list.d/jenkins.list
+
+lägg till följande rad i den nya filen:
+deb [signed-by=/usr/share/keyrings/jenkins-archive-keyring.gpg] https://pkg.jenkins.io/debian binary/
+spara och avsluta i Nano
+
+Nu kör vi 
+sudo apt update
+
+Sen är vi redo att installera Jenkins med 
+sudo apt install jenkins
+
