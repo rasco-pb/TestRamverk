@@ -175,3 +175,5 @@ II 10-10-24 15:53:22.361 - [src/view/xdg-shell.cpp:25] New xdg popup
 II 10-10-24 15:53:31.354 - [src/view/xdg-shell.cpp:25] New xdg popup
 II 10-10-24 15:53:33.113 - [src/view/xdg-shell.cpp:201] new xdg_shell_stable surface: Eye of MATE Image Viewer app-id: eom
 app_id equals variant: [type: string, value: Kodi]
+II 10-10-24 16:41:46.319 - [src/core/seat/input-manager.cpp:104] remove input: wlr_virtual_keyboard_v1
+II 10-10-24 16:41:46.321 - [src/core/seat/input-manager.cpp:104] remove input: wlr_virtual_pointer_v1
